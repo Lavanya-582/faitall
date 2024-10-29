@@ -1,0 +1,5 @@
+'''
+data["model"].unique()
+'''
+ans:
+array(['lounge', 'pop', 'sport'], dtype=object)
